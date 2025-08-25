@@ -1,6 +1,6 @@
 # Hotel-Management-System<br>
 Overview<br>
-The HostNate is a robust Spring Boot web application that streamlines hotel operations like room reservations, guest management, and role-based access. It uses MySQL for backend data storage and Thymeleaf for the frontend view layer. The system is built to increase management efficiency by up to 60%.<br>
+The Hotel Management System is a robust Spring Boot web application that streamlines hotel operations like room reservations, guest management, and role-based access. It uses MySQL for backend data storage and Thymeleaf for the frontend view layer. The system is built to increase management efficiency by up to 60%.<br>
 <br>
 Features ✨<br><br>
 ✅ Admin Dashboard for complete control over hotel operations<br>
