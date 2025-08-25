@@ -25,8 +25,8 @@ Database Schema 📊<br>
 The database contains these main tables:<br>
 
 Table Name  	Description<br>
-admins    \t  	Stores admin user credentials<br>
-guests	  \t    Contains guest details<br>
-rooms       \t 	Room configuration and availability<br>
-reservations \t	Booking and reservation information<br>
-user        	\t Registered user data (if enabled)<br>
+admins    <\t>	Stores admin user credentials<br>
+guests	 < \t >   Contains guest details<br>
+rooms       <\t> 	Room configuration and availability<br>
+reservations <\t>	Booking and reservation information<br>
+user        	<\t> Registered user data (if enabled)<br>
