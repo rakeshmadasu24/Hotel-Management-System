@@ -24,9 +24,9 @@ Security	Spring Security (form login + session-based)<br>
 Database Schema 📊<br>
 The database contains these main tables:<br>
 
-Table Name  	Description<br>
-admins    <\t>	Stores admin user credentials<br>
-guests	 < \t >   Contains guest details<br>
-rooms       <\t> 	Room configuration and availability<br>
-reservations <\t>	Booking and reservation information<br>
-user        	<\t> Registered user data (if enabled)<br>
+Table Name  &nbsp; 	Description<br>
+admins    &nbsp; 	Stores admin user credentials<br>
+guests	  &nbsp;   Contains guest details<br>
+rooms     &nbsp;    	Room configuration and availability<br>
+reservations  &nbsp; Booking and reservation information<br>
+user        	 &nbsp; Registered user data (if enabled)<br>
