@@ -14,11 +14,11 @@ Features ✨<br><br>
 
 Technologies Used 🛠️<br>
 Layer	Tech Stack<br>
-Backend	Java, Spring Boot, Spring MVC, Spring Security<br>
-Frontend	Thymeleaf, HTML5, CSS3, Bootstrap<br>
-Database	MySQL + Spring Data JPA<br>
-Build Tool	Maven<br>
-IDE	IntelliJ / VS Code<br>
+Backend:	Java, Spring Boot, Spring MVC, Spring Security<br>
+Frontend:	Thymeleaf, HTML5, CSS3, Bootstrap<br>
+Database:	MySQL + Spring Data JPA<br>
+Build Tool:	Maven<br>
+IDE:	IntelliJ / VS Code<br>
 Security	Spring Security (form login + session-based)<br>
 <br>
 Database Schema 📊<br>
