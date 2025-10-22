@@ -1,0 +1,13 @@
+# VS Code
+.vscode/
+.vs/
+
+# Eclipse
+/.classpath
+/.project
+/.settings/
+
+# Maven / Gradle
+/target/
+*.log
+*.class
