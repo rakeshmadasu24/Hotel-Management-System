@@ -1,13 +1,62 @@
-# VS Code
+# ----------------------------------
+# IDEs
+# ----------------------------------
 .vscode/
 .vs/
+.idea/
+*.iml
 
 # Eclipse
-/.classpath
-/.project
-/.settings/
+.classpath
+.project
+.settings/
 
+# IntelliJ
+out/
+
+# ----------------------------------
 # Maven / Gradle
-/target/
+# ----------------------------------
+target/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Logs
 *.log
+*.out
+
+# ----------------------------------
+# OS Files
+# ----------------------------------
+.DS_Store
+Thumbs.db
+
+# ----------------------------------
+# Java
+# ----------------------------------
 *.class
+*.jar
+*.war
+*.ear
+
+# ----------------------------------
+# Environment & Config Files
+# ----------------------------------
+.env
+*.properties.local
+*.yml.local
+
+# ----------------------------------
+# Temporary files
+# ----------------------------------
+*.tmp
+*.swp
+*.bak
+
+# ----------------------------------
+# Node (if Angular frontend included)
+# ----------------------------------
+node_modules/
+dist/
+npm-debug.log
+package-lock.json
